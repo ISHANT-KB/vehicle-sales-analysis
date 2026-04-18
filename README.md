@@ -36,6 +36,8 @@ https://www.kaggle.com/code/kareembasemgoda/vehicle-sales-analysis
 
 Place the file in the `data/` folder before running the project.
 
+Sample Dataset is given for reference of the user to understand the structure of orginal dataset
+
 ## ⚙️ Data Cleaning Process
 
 The dataset contained missing values, inconsistent formats, and irrelevant columns. The following steps were applied:
