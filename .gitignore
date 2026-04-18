@@ -128,3 +128,5 @@ output/
 
 # Temporary files
 *.tmp
+
+data/*.csv
