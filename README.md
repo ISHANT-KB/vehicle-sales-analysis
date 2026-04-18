@@ -26,6 +26,16 @@ The goal is to transform raw, noisy data into a structured format and uncover ke
 
 ---
 
+
+## 📥 Dataset Access
+
+Due to file size limitations, the dataset is not included in this repository.
+
+You can download it from:
+https://www.kaggle.com/code/kareembasemgoda/vehicle-sales-analysis
+
+Place the file in the `data/` folder before running the project.
+
 ## ⚙️ Data Cleaning Process
 
 The dataset contained missing values, inconsistent formats, and irrelevant columns. The following steps were applied:
